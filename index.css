@@ -1,0 +1,17 @@
+.bg-black {
+    background-color: black;
+}
+
+#movieSearchResult {
+    width: fit-content;
+    margin: auto;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.recommended {
+    top: 10px;
+    left: 0;
+    width: 100%;
+    text-align: center;
+}
